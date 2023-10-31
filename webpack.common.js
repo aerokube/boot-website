@@ -37,7 +37,7 @@ module.exports = {
           {
             loader: "sass-loader",
             options: {
-              additionalData: "$prefix: \"" + (process.env.NODE_ENV === "production" ? "/selenoid" : "") + "\";"
+              additionalData: "$prefix: \"" + (process.env.NODE_ENV === "production" ? "/boot" : "") + "\";"
             }
           }]
       }
