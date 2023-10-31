@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "title": "\"Swiss Army Knife\"",
+      "description": "Test automation and remote\ndevelopment in one cluster",
+      "icon": "cluster"
+    },
+    {
+      "title": "Lightning fast",
+      "description": "Lightweight virtual machines \nstarting in seconds",
+      "icon": "lightning"
+    },
+    {
+      "title": "Secure",
+      "description": "Full and fine-grained\naccess control",
+      "icon": "installation"
+    },
+    {
+      "title": "Flexible pricing",
+      "description": "$5 per CPU\nper month",
+      "icon": "pricing"
+    }
+  ],
+  "social": [
+    {
+      "name": "Docs",
+      "url": "https://aerokube.com/boot/latest"
+    },
+    {
+      "name": "Blog",
+      "url": "https://blog.aerokube.com"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/aerokube/boot"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/aerokube_boot"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/aerokube"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/@aerokube"
+    },
+    {
+      "name": "Mail us",
+      "url": "mailto:support@aerokube.com"
+    }
+  ],
+  "verticals": [
+    {
+      "name": "Aerokube",
+      "url": "https://aerokube.com/"
+    },
+    {
+      "name": "Moon",
+      "url": "https://aerokube.com/moon/"
+    },
+    {
+      "name": "Moon Cloud",
+      "url": "https://aerokube.com/moon-cloud/"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Selenoid",
+      "description": "A lightning fast Selenium protocol implementation running browsers in Docker containers",
+      "source": "https://github.com/aerokube/selenoid",
+      "documentation": "https://aerokube.com/selenoid/latest/"
+    },
+    {
+      "title": "Selenoid UI",
+      "description": "Cool graphical user interface for Selenoid mainly needed for debugging your Selenium tests",
+      "source": "https://github.com/aerokube/selenoid-ui",
+      "documentation": "https://aerokube.com/selenoid-ui/latest/"
+    },
+    {
+      "title": "CM",
+      "description": "A fully automated installation tool for Selenoid and Selenoid UI doing all the work for you",
+      "source": "https://github.com/aerokube/cm",
+      "documentation": "https://aerokube.com/cm/latest/"
+    },
+    {
+      "title": "Ggr",
+      "description": "A completely stateless and lightweight load balancer used to create big Selenium clusters",
+      "source": "https://github.com/aerokube/ggr",
+      "documentation": "https://aerokube.com/ggr/latest/"
+    },
+    {
+      "title": "Ggr UI",
+      "description": "An additional component used to show all sessions running in Selenium cluster in the same Selenoid UI",
+      "source": "https://github.com/aerokube/ggr-ui",
+      "documentation": "https://aerokube.com/ggr-ui/latest/"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Boot: Other Side of the Moon",
+      "description": "This article gives motivation of our new product called Boot.",
+      "url": "https://blog.aerokube.com/boot-other-side-of-the-moon-c85d3d68a682"
+    }
+  ],
+  "videos": [
+    {
+      "image": "images/videos/video1.png",
+      "url": "https://youtube.com"
+    },
+    {
+      "image": "images/videos/video2.png",
+      "url": "https://youtube.com"
+    },
+    {
+      "image": "images/videos/video3.png",
+      "url": "https://youtube.com"
+    }
+  ]
+}
